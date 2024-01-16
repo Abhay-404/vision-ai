@@ -12,6 +12,7 @@ Llava Model /Gemini Pro vision 📈: The project leverages the power of the Mult
 
 Real-time Image Capture 📷: Vision-AI captures real-time images using the Raspberry Pi camera or mobile Camera module.<br>
 
+
 How It Works<br>
 
 <ol>
@@ -33,6 +34,12 @@ How It Works<br>
  </li>
 
 </ol>
+<h4>Demo Video</h4> : <a herf = "https://www.youtube.com/watch?v=ot4cCV3151w"> Click here </a>
 
-export REPLICATE_API_TOKEN= <REPLICATE_API_TOKEN>
+
+for using Open sourced LLava model we have used  <a herf = "https://replicate.com/yorickvp/llava-13b"> <h5>Replicate</h5>.</a>
+
+export REPLICATE_API_TOKEN= <REPLICATE_API_TOKEN> 
 run the above command in command prompt to activate the token
+
+In the hackthon we will use Gemini pro-vision which is free for now.
