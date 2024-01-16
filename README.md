@@ -36,7 +36,7 @@ How It Works<br>
 </ol>
 <h3>Demo Video:</h3>
 
-[![Watch the video](https://img.youtube.com/vi/ot4cCV3151w/maxresdefault.jpg)](https://www.youtube.com/watch?v=ot4cCV3151w)<br>
+[![Watch the video](https://img.youtube.com/vi/ot4cCV3151w/maxresdefault.jpg)](https://youtu.be/0pYcrksjDWw?si=4Hcc1cqaYYDQWS2g)<br>
 <br>
 
 For using open sourced LLava model we have used [Replicate](https://replicate.com/yorickvp/llava-13b).
