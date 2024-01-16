@@ -40,7 +40,7 @@ How It Works<br>
 <br>
 
 For using open sourced LLava model we have used [Replicate](https://replicate.com/yorickvp/llava-13b).
-export REPLICATE_API_TOKEN= <REPLICATE_API_TOKEN> 
+export REPLICATE_API_TOKEN= <REPLICATE_API_TOKEN> <br>
 run the above command in command prompt to activate the token
 
 In the hackthon we will use Gemini pro-vision which is free for now.
