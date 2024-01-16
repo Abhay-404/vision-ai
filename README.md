@@ -34,9 +34,10 @@ How It Works<br>
  </li>
 
 </ol>
-# Demo Video:
+<h3>Demo Video:</h3>
 
-[Click here](https://www.youtube.com/watch?v=ot4cCV3151w)
+[![Watch the video](https://img.youtube.com/vi/ot4cCV3151w/maxresdefault.jpg)](https://www.youtube.com/watch?v=ot4cCV3151w)<br>
+<br>
 
 For using open sourced LLava model we have used [Replicate](https://replicate.com/yorickvp/llava-13b).
 export REPLICATE_API_TOKEN= <REPLICATE_API_TOKEN> 
