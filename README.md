@@ -34,11 +34,11 @@ How It Works<br>
  </li>
 
 </ol>
-<h4>Demo Video</h4> : <a herf = "https://www.youtube.com/watch?v=ot4cCV3151w"> Click here </a>
+# Demo Video:
 
+[Click here](https://www.youtube.com/watch?v=ot4cCV3151w)
 
-for using Open sourced LLava model we have used  <a herf = "https://replicate.com/yorickvp/llava-13b"> <h5>Replicate</h5>.</a>
-
+For using open sourced LLava model we have used [Replicate](https://replicate.com/yorickvp/llava-13b).
 export REPLICATE_API_TOKEN= <REPLICATE_API_TOKEN> 
 run the above command in command prompt to activate the token
 
